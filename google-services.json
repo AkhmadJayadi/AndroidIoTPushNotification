@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "764971215484",
+    "firebase_url": "https://realtimesensoriot-729ff-default-rtdb.firebaseio.com",
+    "project_id": "realtimesensoriot-729ff",
+    "storage_bucket": "realtimesensoriot-729ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764971215484:android:3b5614695eaa8889c777f9",
+        "android_client_info": {
+          "package_name": "com.example.realtimesensoriot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764971215484-hm087goglol6kp6ca4gn5ct3er07c5k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8lNEUPDmm6KXE4QNvJ1fNh-630nstntA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764971215484-hm087goglol6kp6ca4gn5ct3er07c5k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764971215484:android:318e4e9515ff25ddc777f9",
+        "android_client_info": {
+          "package_name": "com.example.realtimesensoriotrevisi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764971215484-hm087goglol6kp6ca4gn5ct3er07c5k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8lNEUPDmm6KXE4QNvJ1fNh-630nstntA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764971215484-hm087goglol6kp6ca4gn5ct3er07c5k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
